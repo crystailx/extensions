@@ -25934,10 +25934,10 @@
   {
     "name": "Tachiyomi: Manhuaren",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuaren",
-    "apk": "tachiyomi-zh.manhuaren-v1.4.17.apk",
+    "apk": "tachiyomi-zh.manhuaren-v1.4.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
@@ -26166,6 +26166,40 @@
         "lang": "zh",
         "id": "8743284448117690086",
         "baseUrl": "http://www.zerobywrar.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MMCG18H",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.mmcg18h",
+    "apk": "tachiyomi-zh.mmcg18h-v1.4.8.apk",
+    "lang": "zh",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MMCG18H",
+        "lang": "zh",
+        "id": "8743284448117699901",
+        "baseUrl": "https://18h.mm-cg.com/"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MMCG18HD",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.mmcg18hd",
+    "apk": "tachiyomi-zh.mmcg18hd-v1.4.8.apk",
+    "lang": "zh",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MMCG18HD",
+        "lang": "zh",
+        "id": "8743284448117699902",
+        "baseUrl": "https://18h.mm-cg.com/"
       }
     ]
   }
